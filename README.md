@@ -12,7 +12,6 @@ The data was cleaned and processed, then visualized using **Tableau** to create 
 - **Visitor Trends:** Active visitor count monitored across weeks.
 
 ## 🛠 Tools & Technologies
-- **Data Cleaning & Processing:** Python (Pandas, NumPy)  
 - **Visualization & Dashboarding:** Tableau Public  
 - **Dataset:** Airbnb sample dataset (public dataset)
 
